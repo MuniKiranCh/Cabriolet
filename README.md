@@ -1,6 +1,6 @@
 # Cabriolet
 
-![frame_firefox_mac_dark (1)](https://user-images.githubusercontent.com/80502833/187230764-e1bb2b44-c221-4529-ba73-a2261e636372.png)
+![frame_firefox_mac_dark (1)](https://github.com/MuniKiranCh/Cabriolet/blob/master/images/homepg.png)
 
 <h1 align="center">Car Booking Website Project</h1>  
 
@@ -119,7 +119,7 @@ This is a project for a car booking website. It is a project for the College Min
 ## Authors 
 
 - [Ch Muni Kiran](https://github.com/MuniKiranCh)
-- [G Rahul](https://github.com/Swasthik-Jain)
+- [G Rahul](https://github.com/RahulGanta2)
 
 ## Show your support
 
