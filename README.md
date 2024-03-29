@@ -119,7 +119,8 @@ This is a project for a car booking website. It is a project for the College Min
 ## Authors 
 
 - [Ch Muni Kiran](https://github.com/MuniKiranCh)
-- [G Rahul](https://github.com/RahulGanta2)
+- [Ganta Rahul](https://github.com/RahulGanta2)
+- [Harsh Gupta](https://github.com/harsh232gupta)
 
 ## Show your support
 
