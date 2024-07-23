@@ -2,7 +2,7 @@
 
 ![frame_firefox_mac_dark (1)](https://github.com/MuniKiranCh/Cabriolet/blob/master/images/homepg.png)
 
-<h1 align="center">Car Booking Website Project</h1>  
+<h1 align="center">Car Booking Website Project</h1> 
 
 This is a project for a car booking website. It is a project for the College Mini Project.
 
