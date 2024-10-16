@@ -121,7 +121,7 @@ This is a project for a car booking website. It is a project for the College Min
 - [Ch Muni Kiran](https://github.com/MuniKiranCh)
 - [Ganta Rahul](https://github.com/RahulGanta2)
 - [Harsh Gupta](https://github.com/harsh232gupta)
-- [Faisal] (https://github.com/Riser59).
+- [Faisal](https://github.com/Riser59).
 
 ## Show your support
 
